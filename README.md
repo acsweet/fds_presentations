@@ -1,1 +1,1 @@
-# fds_presentations
+# Fresno Data Science Presentations
