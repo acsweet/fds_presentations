@@ -1,0 +1,8 @@
+*.csv
+*.zip
+*.txt
+*.json
+*.pdf
+*.h5
+
+/transfer_learning_with_word_embeddings/
