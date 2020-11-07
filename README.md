@@ -13,3 +13,10 @@ These include:
 - Parcel data, with a shapefile
 - Spatially joining data with geospatial features
 - A simple clustering example with location data
+
+Covid 19 Data Loading
+==
+The main file is a python script with processes for downloading Covid 19 data from various sources.
+- Note: the processes can be setup in an automated script, please see the notebook and python script for additional details
+
+A sample notebook is included: <a href=https://github.com/acsweet/fds_presentations/blob/master/covid_19/covid_19_sample_load.ipynb>covid_19_sample_load.ipynb</a>
