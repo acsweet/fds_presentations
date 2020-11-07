@@ -4,5 +4,7 @@
 *.json
 *.pdf
 *.h5
+*.DS_Store
 
 /transfer_learning_with_word_embeddings/
+/__pycache__/
