@@ -9,4 +9,4 @@
 /transfer_learning_with_word_embeddings/
 **/__pycache__/
 
-*/.ipynb_checkpoints
+.ipynb_checkpoints
