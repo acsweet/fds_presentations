@@ -5,6 +5,7 @@
 *.pdf
 *.h5
 *.jblb
+*.index
 .DS_Store
 
 /bert/
