@@ -1,0 +1,40 @@
+<style>
+.highlight1 {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    background-color: rgb(127, 179, 213);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.highlight2 {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    background-color: rgb(240, 178, 122);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.highlighti {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    background-color: rgb(125, 206, 160);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.highlightb {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    background-color: rgb(229, 231, 233);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.highlighte {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    background-color: rgb(247, 220, 111);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.c_shadow {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+</style>
