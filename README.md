@@ -20,3 +20,13 @@ The main file is a python script with processes for downloading Covid 19 data fr
 - Note: the processes can be setup in an automated script, please see the notebook and python script for additional details
 
 A sample notebook is included: <a href=https://github.com/acsweet/fds_presentations/blob/master/covid_19/covid_19_sample_load.ipynb>covid_19_sample_load.ipynb</a>
+
+Transfer Learning with Word Embeddings
+==
+A brief tour of some of the recent work and progress on word embeddings.
+- Note: weight files for many models are required, links are included in the main notebook.
+
+Introduction to APIs for Fetching Data
+==
+This is a beginner introduction to APIs, what they are, and what you can do with them, with a special focus on python.
+- Note: many of the APIs that require some form of authentication need to be registered for to be used.
