@@ -30,3 +30,8 @@ Introduction to APIs for Fetching Data
 ==
 This is a beginner introduction to APIs, what they are, and what you can do with them, with a special focus on python.
 - Note: many of the APIs that require some form of authentication need to be registered for to be used.
+
+Ariel Data Challenge at ECML-PKDD 2023
+==
+On my methods and experience in participating in this challenge \
+[slides](https://docs.google.com/presentation/d/13wxilNkQwK3RhbGtIfWkN6y-3zlgawiyir08ch6qFYw/edit?usp=sharing) [code](https://github.com/acsweet/ariel_data_challenge_2023) [arXiv](https://arxiv.org/abs/2406.10771) [Springer](https://link.springer.com/chapter/10.1007/978-3-031-74643-7_8)
